@@ -1,5 +1,4 @@
-# Web-Scraping-From-Anime
-
+Web Scraping from blkom.com
 
 المكتبات المستخدمة requests & beautifulsoup
 1- تثبت المكتبات pip install -r requirements.txt
