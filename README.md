@@ -10,7 +10,7 @@
 
 
 
-[+] Web Scraping from blkom.com .. Get the links to watch and download [+] استخراج البيانات من موقع انمي بالكوم .. سحب روابط المشاهدة و التنزيل 
+[+] Web Scraping from blkom.com .. Get the links to watch and download [+] استخراج البيانات من موقع انمي بالكوم.. سحب روابط المشاهدة و التنزيل 
 
 [1] search - البحث 
 
