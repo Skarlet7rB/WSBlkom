@@ -1,4 +1,3 @@
-[مستند نصي جديد.txt](https://github.com/Skarlet7rB/Web-Scraping-From-Anime/files/9469895/default.txt)
 # Web-Scraping-From-Anime
 
 
@@ -23,4 +22,3 @@ t.me/Skarlet7rB
 [1] search - البحث 
 [2] Single - استخراج الحلقة
 [3] Auto - استخرج مجموعة الحلقات
-
