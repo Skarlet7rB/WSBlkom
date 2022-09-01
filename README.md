@@ -1,3 +1,4 @@
+[مستند نصي جديد.txt](https://github.com/Skarlet7rB/Web-Scraping-From-Anime/files/9469895/default.txt)
 # Web-Scraping-From-Anime
 
 
