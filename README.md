@@ -1,10 +1,3 @@
-# Web-Scraping-From-Anime
-
-
-المكتبات المستخدمة requests & beautifulsoup
-1- تثبت المكتبات pip install -r requirements.txt
-2- تشغيل السكربت blkom.exe عبر موجه الأوامر cmd بأمر blkom.exe او python blkom.exe
-
 
 ─▄▀▀███═◯
 ▐▌▄▀▀█▀▀▄
