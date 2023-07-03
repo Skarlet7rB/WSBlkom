@@ -1,4 +1,4 @@
-# Web-Scraping-From-Anime
+# Web Scraping blkom
 
 
 المكتبات المستخدمة requests & beautifulsoup & huepy
