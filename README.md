@@ -1,12 +1,9 @@
 # Web Scraping blkom
 
 
-المكتبات المستخدمة requests & beautifulsoup & huepy
+pip install -r requirements.txt
 
-تثبت المكتبات pip install -r requirements.txt
-
-
-[+] Web Scraping from blkom.com .. Get the links to watch and download [+] استخراج البيانات من موقع انمي بالكوم .. سحب روابط المشاهدة و التنزيل 
+[+] Web Scraping from blkom.com .. Get the links to watch and download
 
 [1] search - البحث 
 
@@ -16,6 +13,6 @@
 
 ![](2.gif)
 
-[3] Auto - استخرج مجموعة الحلقات
+[3] Auto - استخرج مجموعة من الحلقات
 
 ![](3.gif)
