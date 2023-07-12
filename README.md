@@ -18,5 +18,4 @@
 
 [3] Auto - استخرج مجموعة الحلقات
 
-![](https://dso5.raed.net:449/files/3_cc725.gif)
 
