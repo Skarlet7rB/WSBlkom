@@ -18,4 +18,4 @@
 
 [3] Auto - استخرج مجموعة الحلقات
 
-![](3.mp4)
+![](https://drive.google.com/file/d/1CofhTjyIzok9VmF3g-6g5vw7w90HfRPM/view)
