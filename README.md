@@ -18,4 +18,5 @@
 
 [3] Auto - استخرج مجموعة الحلقات
 
-![](https://drive.google.com/file/d/1CofhTjyIzok9VmF3g-6g5vw7w90HfRPM/view)
+![](https://dso5.raed.net:449/files/3_cc725.gif)
+
