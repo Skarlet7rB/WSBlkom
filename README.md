@@ -1,4 +1,4 @@
-# Web Scraping blkom
+# WSBlkom
 
 Python 3
 
